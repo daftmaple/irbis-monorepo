@@ -8,6 +8,8 @@
   "devDependencies": {
     "@nrwl/cli": "14.6.4",
     "@nrwl/js": "14.6.4",
+    "@nrwl/react": "^14.6.4",
+    "@nrwl/storybook": "^14.6.4",
     "@nrwl/workspace": "14.6.4",
     "nx": "14.6.4",
     "prettier": "^2.6.2",
